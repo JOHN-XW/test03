@@ -4,3 +4,5 @@ num3=3
 num4=40
 num5=50
 num6=60
+num7=70
+
